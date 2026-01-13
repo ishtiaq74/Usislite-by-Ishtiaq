@@ -1,0 +1,32 @@
+# Project files
+/vendor/
+/node_modules/
+
+# Environment and config
+.env
+config.php
+/config.php
+config.local.php
+
+# Logs and OS files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Screenshots or build output
+/screenshots/
+/dist/
+
+# PHPStorm
+/.idea
+
+# Composer
+composer.lock
+
+# XAMPP
+*~
